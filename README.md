@@ -1,2 +1,2 @@
-# education_project
-the project help for education
+# landing_page
+this is big team projects
